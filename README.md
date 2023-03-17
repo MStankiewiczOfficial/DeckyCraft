@@ -29,7 +29,7 @@
 ### Second option:
 1. Run your Steam Deck in Desktop Mode.
 1. Download [Prism Launcher from FlatHub](https://flathub.org/apps/details/org.prismlauncher.PrismLauncher).
-1. Download [DeckyCraft from CurseForge](https://www.curseforge.com/minecraft/modpacks/deckycraft/files).
+1. Download [DeckyCraft from CurseForge](https://www.curseforge.com/minecraft/modpacks/deckycraft/files) or [GitHub](https://github.com/MStankiewiczOfficial/DeckyCraft/releases).
 1. Open Prism Launcher.
 1. Click *Add Instance.*
 1. Choose *Import from zip*.
