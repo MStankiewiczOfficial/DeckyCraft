@@ -43,3 +43,6 @@ Now you can run DeckyCraft.
 * **Adding DeckyCraft to Gaming Mode** (soon!)
 * **Adding DeckyCraft controller configuration to Steam settings** (soon!)
 * **Changing keybinds** (soon!)
+
+## Disclaimer
+I am affiliated neither with Valve Corporation, Mojang Studios or creators of mods included in modpack. "Steam", "Steam Deck" and "Valve" are trademarks of Valve Corporation. Minecraft is trademark of Mojang Synergies AB.
