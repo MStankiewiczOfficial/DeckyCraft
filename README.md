@@ -45,4 +45,4 @@ Now you can run DeckyCraft.
 * **Changing keybinds** (soon!)
 
 ## Disclaimer
-I am affiliated neither with Valve Corporation, Mojang Studios or creators of mods included in modpack. "Steam", "Steam Deck" and "Valve" are trademarks of Valve Corporation. Minecraft is trademark of Mojang Synergies AB.
+I am affiliated neither with Valve Corporation, Mojang Studios, Prism Launcher, FlatHub or creators of mods included in modpack. "Steam", "Steam Deck" and "Valve" are trademarks of Valve Corporation. Minecraft is trademark of Mojang Synergies AB. 
