@@ -15,6 +15,8 @@
  
  
 ## Installation:
+More detailed instructions can be found on [the wiki](https://github.com/MStankiewiczOfficial/DeckyCraft/wiki).
+
 ### First option (recommended):
 1. Run your Steam Deck in Desktop Mode.
 1. Download [Prism Launcher from FlatHub](https://flathub.org/apps/details/org.prismlauncher.PrismLauncher).
