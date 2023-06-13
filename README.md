@@ -42,7 +42,7 @@ Now you can run DeckyCraft.
  
 
 ## Setting additional features:
-* **Adding DeckyCraft to Gaming Mode** (soon!)
+* [**Adding DeckyCraft to Gaming Mode**](https://github.com/MStankiewiczOfficial/DeckyCraft/wiki/Setting-additional-features#adding-deckycraft-to-gaming-mode)
 * **Adding DeckyCraft controller configuration to Steam settings** (soon!)
 * **Changing keybinds** (soon!)
 
