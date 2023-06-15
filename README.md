@@ -22,7 +22,7 @@ More detailed instructions can be found on [the wiki](https://github.com/MStanki
 1. Download [Prism Launcher from FlatHub](https://flathub.org/apps/details/org.prismlauncher.PrismLauncher).
 1. Open Prism Launcher.
 1. Click *Add Instance*.
-1. Choose *CurseForge*.
+1. Choose *Morinth*.
 1. Type *DeckyCraft* and press *Search*.
 1. Choose *DeckyCraft* from the list and select version.
 1. Press *OK*.
