@@ -5,7 +5,7 @@
 
 ## Features:
 * **Play with thumbsticks and buttons or touch** - MidnightControls mod adds support for games controllers and touchscreen, so you can play Minecraft like on every console or phone!
-* **Proximity voice chat** - Simple Voice Chat mod adds support for proximity voice chat to your Minecraft server* or Essential-shared world.
+* **Proximity voice chat** - Simple Voice Chat mod adds support for proximity voice chat to your Minecraft server*.
 * **Optimization** - Sodium is a free and open-source optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
 * **...and much more**! 
  
