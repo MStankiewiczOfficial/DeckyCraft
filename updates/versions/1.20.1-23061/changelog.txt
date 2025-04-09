@@ -1,0 +1,16 @@
+### Mods:
+- **Fabric API** (by FabricMC)
+- **Inventory HUD +** (by DmitryLovin)
+- **Just Enough Items** (by mezz)
+- **MidnightControls** (by LambdAurora, Motschen)
+- **Mod Menu** (by Prospector, jackassmc, TerraformersMC)
+- **Simple Voice Chat** (by Max Henkel)
+- **Sodium** (by JellySquid)
+- **Sound Physics Remastered** (by Sonic Ether, vlad2305m, Max Henkel)
+- **WorldEdit** (by EngineHub)
+- **Xaero's Minimap** (by Xaero96)
+- **Xaero's World Map** (by Xaero96)
+
+
+### Resource Packs:
+- **DeckyCraft 1.20.1** (by MStankiewicz)

@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "requiresMpuc": 14,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "1.19.3-23032",
+      "releasedAt": 1686670920,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/deckycraft/version/23032",
+              "generic": "https://github.com/MStankiewiczOfficial/DeckyCraft/releases/tag/1.19.3-v23032-beta"
+          }
+      }
+    },
+    {
+      "id": "1.18.2-23031",
+      "releasedAt": 1686821880,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/deckycraft/version/23031"
+          }
+      }
+    },
+    {
+      "id": "1.19-23031",
+      "releasedAt": 1686821940,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/deckycraft/version/90Y8n2Ma",
+              "generic": "https://github.com/MStankiewiczOfficial/DeckyCraft/releases/tag/1.19-v23031-beta"
+          }
+      }
+    },
+    {
+      "id": "1.20.1-23061",
+      "releasedAt": 1686822240,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/deckycraft/version/23061",
+              "generic": "https://github.com/MStankiewiczOfficial/DeckyCraft/releases/tag/1.20.1-v23061-alpha"
+          }
+      }
+    },
+    {
+      "id": "1.20.4-24011",
+      "releasedAt": 1706625960,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/deckycraft/version/90Y8n2Ma"          }
+      }
+    },
+    {
+      "id": "1.21.1-25041",
+      "releasedAt": 1744028191,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/deckycraft/version/25041",
+              "generic": "https://github.com/MStankiewiczOfficial/DeckyCraft/releases/tag/1.21.1-v25041-alpha"
+          }
+      }
+    },
+    {
+      "id": "1.21.1-25042",
+      "releasedAt": 1744197991,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/deckycraft/version/25042",
+              "generic": "https://github.com/MStankiewiczOfficial/DeckyCraft/releases/tag/1.21.1-v25042-stable"
+          }
+      }
+    }
+  ]
+}
