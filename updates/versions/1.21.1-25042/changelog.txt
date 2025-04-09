@@ -1,0 +1,28 @@
+## Changes
+- Added **FancyMenu** (by Keksuccino)
+- Added **Konkrete** (by Keksuccino)
+- Added **Melody** (by Keksuccino)
+- Added **Modpack Update Checker** (by Jab125)
+- Updated **Sound Physics Remastered** from 1.4.10 to 1.4.12
+- Updated **Fabric Loader** from 0.16.12 to 0.16.13
+
+### Mods:
+- **Fabric API** (by FabricMC)
+- **Iris** (by coderbot, IMS)
+- **Just Enough Items** (by mezz)
+- **MidnightControls** (by LambdAurora, Motschen)
+- **MidnightLib** (by Motschen)
+- **Mod Menu** (by Prospector, jackassmc, TerraformersMC)
+- **Modpack Update Checker** (by Jab125)
+- **Reese's Sodium Options** (by FlashyReese)
+- **Simple Resource Loader** (by Patbox)
+- **Simple Voice Chat** (by Max Henkel)
+- **Sodium** (by JellySquid)
+- **Sound Physics Remastered** (by Sonic Ether, vlad2305m, Max Henkel)
+- **WorldEdit** (by EngineHub)
+- **Xaero's Minimap** (by Xaero96)
+- **Xaero's World Map** (by Xaero96)
+
+
+### Resource Packs:
+- **DeckyCraft 1.21.1** (by MStankiewicz)
