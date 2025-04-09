@@ -1,11 +1,11 @@
-![DeckyCraft](https://user-images.githubusercontent.com/42030591/225977218-0f1a42fc-51e1-4d94-b814-e639449156fe.png)
+![DeckyCraft](https://github.com/user-attachments/assets/e6ba972d-ed84-47ea-a12d-b0c325f42a26)
+
 ## This pack has everything you need to play Minecraft on Valve's console.
  
 
 ## Features:
 * **Play with thumbsticks and buttons or touch** - MidnightControls mod adds support for games controllers and touchscreen, so you can play Minecraft like on every console or phone!
-* **Share your world with friends without server** - Essential mod adds support for hosting singleplayer worlds and inviting another people with this mod!
-* **Proximity voice chat** - Simple Voice Chat mod adds support for proximity voice chat to your Minecraft server* or Essential-shared world.
+* **Proximity voice chat** - Simple Voice Chat mod adds support for proximity voice chat to your Minecraft server*.
 * **Optimization** - Sodium is a free and open-source optimization mod for the Minecraft client that improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft.
 * **...and much more**! 
  
