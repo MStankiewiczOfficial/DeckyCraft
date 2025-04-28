@@ -1,0 +1,40 @@
+## Changes
+- Added **Architectury** (by shedaniel)
+- Added **Cloth Config v17** (by shedaniel)
+- Added **Roughly Enough Items** (by shedaniel)
+- Updated **Fabric API** from 0.115.4+1.21.1 to 0.119.2+1.21.4
+- Updated **FancyMenu** from 3.4.6 to 3.5.0
+- Updated **Iris** from 1.8.8+mc1.21.1 to 1.8.8+mc1.21.1
+- Updated **MidnightControls** from 1.10.0 to 1.10.5
+- Updated **MidnightLib** from 1.6.9 to 1.7.2
+- Updated **Mod Menu** from 11.0.3 to 13.0.3
+- Updated **Simple Voice Chat** from 1.21.1-2.5.29 to 1.21.4-2.5.30
+- Updated **Sodium** from 0.6.16+1.21.1 to 0.6.16+1.21.4
+- Updated **Sound Physics Remastered** from 1.21.1-1.4.12 to 1.21.4-1.4.12
+- Updated **WorldEdit** from 7.3.8 to 7.3.11
+- Removed **Just Enough Items** (by mezz)
+
+### Mods:
+- **Architectury** (by shedaniel)
+- **Cloth Config v17** (by shedaniel)
+- **Fabric API** (by FabricMC)
+- **FancyMenu** (by Keksuccino)
+- **Iris** (by coderbot, IMS)
+- **Konkrete** by (Keksuccino)
+- **Melody** by (Keksuccino)
+- **MidnightControls** (by LambdAurora, Motschen)
+- **MidnightLib** (by Motschen)
+- **Mod Menu** (by Prospector, jackassmc, TerraformersMC)
+- **Modpack Update Checker** (by Jab125)
+- **Reese's Sodium Options** (by FlashyReese)
+- **Roughly Enough Items** (by shedaniel)
+- **Simple Resource Loader** (by Patbox)
+- **Simple Voice Chat** (by Max Henkel)
+- **Sodium** (by JellySquid)
+- **Sound Physics Remastered** (by Sonic Ether, vlad2305m, Max Henkel)
+- **WorldEdit** (by EngineHub)
+- **Xaero's Minimap** (by Xaero96)
+- **Xaero's World Map** (by Xaero96)
+
+### Resource Packs:
+- **DeckyCraft 1.21.1** (by MStankiewicz)

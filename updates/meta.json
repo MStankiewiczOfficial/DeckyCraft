@@ -70,6 +70,16 @@
               "generic": "https://github.com/MStankiewiczOfficial/DeckyCraft/releases/tag/1.21.1-v25042-stable"
           }
       }
+    },
+    {
+      "id": "1.21.4-25043",
+      "releasedAt": 1745835349000,
+      "promotions": {
+          "downloads": {
+              "modrinth": "https://modrinth.com/modpack/deckycraft/version/25043",
+              "generic": "https://github.com/MStankiewiczOfficial/DeckyCraft/releases/tag/1.21.4-v25043-stable"
+          }
+      }
     }
   ]
 }
